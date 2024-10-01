@@ -1,0 +1,65 @@
+body {
+
+    background-color: #3357FF;
+
+    color: #000066;
+
+    font-family: "Open Sans", sans-serif;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    height: 700px;
+
+    margin: 0;
+
+}
+
+
+
+button {
+
+    background-color: #1F77B4;
+
+    color: #000066;
+
+    font-family: "Open Sans", sans-serif;
+
+}
+
+
+
+.passo {
+
+    display: none;
+
+}
+
+
+
+.passo.ativo {
+
+    display:block;
+
+}
+
+
+
+main {
+
+    text-align: center;
+
+    max-width: 90%;
+
+}
+
+
+
+img {
+
+    max-width: 90%;
+
+}
